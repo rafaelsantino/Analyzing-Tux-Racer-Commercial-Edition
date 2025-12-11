@@ -15,6 +15,8 @@ after "Expression:" thats the minimal leaked source code
 
 this also reveals why it crashes sometimes with the music enabled when you have the original sdl.dll that comes included with the game itself
 
+i also wonder, why cant we just make somehow the c++ redistributable log the whole source code of tux racer 1.1?
+
 # Less Technical things:
 
 found texture matching in this texture:
