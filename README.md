@@ -20,7 +20,17 @@ i also wonder, why cant we just make somehow the c++ redistributable log the who
 
 # Less Technical things:
 
-found texture matching in this texture:
+![Screenshot](https://raw.githubusercontent.com/spielerkapitan/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/palette.png)
+
+found this pallete of terrains in versions earlier than 1.1
+
+as you can see, theres an test terrain called "vwall"
+
+
+also theres a list of objects of tux racer 0.61 ( free version )
+
+# Texture Matching
+found texture matching in IcyCobbleStone:
 
 ![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-1.1/blob/main/icycobblestone.png?raw=true)
 
@@ -30,15 +40,4 @@ The Original Texture:
 
 its from 3ds max texture library.
 
-
-
-
-![Screenshot](https://raw.githubusercontent.com/spielerkapitan/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/palette.png)
-
-found this pallete of terrains in versions earlier than 1.1
-
-as you can see, theres an test terrain called "vwall"
-
-
-also theres a list of objects of tux racer 0.61 ( free version )
 
