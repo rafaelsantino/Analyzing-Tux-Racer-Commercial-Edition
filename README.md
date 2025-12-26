@@ -30,6 +30,9 @@ The Original Texture:
 
 its from 3ds max texture library.
 
+
+
+
 ![Screenshot](https://raw.githubusercontent.com/spielerkapitan/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/palette.png)
 
 found this pallete of terrains in versions earlier than 1.1
