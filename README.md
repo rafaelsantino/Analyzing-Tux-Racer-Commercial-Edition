@@ -53,3 +53,9 @@ based on the objects.tcl of the cup, it seems like the courses originally had a 
 
 screenshot of what the trophy looks:
 ![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-Commercial-Edition/blob/main/antartic%20cup%20trophy.png?raw=true)
+
+# EULA.txt in different versions of Tux Racer
+
+in 1.0.001 and 1.0.003 there was a different EULA.txt version.
+
+by reading it you can find out that there could be an level editor included "The Program may also contain a Level Editor (the “Editor”) that allows you to create custom levels or other materials for your personal use in connection with the Program (“New Materials”)."
