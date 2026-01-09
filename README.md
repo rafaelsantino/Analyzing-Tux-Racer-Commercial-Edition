@@ -59,3 +59,11 @@ screenshot of what the trophy looks:
 in 1.0.001 and 1.0.003 there was a different EULA.txt version.
 
 by reading it you can find out that there could be an level editor included "The Program may also contain a Level Editor (the “Editor”) that allows you to create custom levels or other materials for your personal use in connection with the Program (“New Materials”)." so maybe the image called pallete.png is a part of the editor.
+
+# scrapped bots paths
+
+in 1.1 when you checked the ai-targets folder, you would find a .tcl file with a random number
+
+but in 1.0.001 you can find scrapped ai targets which are probably failed versions
+
+theres also a new.tcl
