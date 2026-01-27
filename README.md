@@ -67,3 +67,4 @@ in 1.1 when you checked the ai-targets folder, you would find a .tcl file with a
 but in 1.0.001 you can find scrapped ai targets which are probably failed versions
 
 theres also a new.tcl
+
