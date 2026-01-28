@@ -1,9 +1,9 @@
-# Analyzing Tux-Racer (Commercial Edition)
-i just wanted to analyze tux racer commercial edition for fun
-
 # Note:
 
 1.0.002 wasnt found yet so this could be incomplete and have errors
+
+# Analyzing Tux-Racer (Commercial Edition)
+i just wanted to analyze tux racer commercial edition for fun
 
 anyways
 
