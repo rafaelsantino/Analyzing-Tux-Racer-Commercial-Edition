@@ -80,3 +80,8 @@ it reveals that it doesnt use display lists for terrain.
 ![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/UHM%20why%20it%20looks%20like%20that.png)
 
 so tux racer only uses display lists to optimize .obj.strip models.
+
+# Key Shortcuts
+
+when pressing = the game changes the current player camera to another player camera, by doing this on Enter an Event
+it lets you see the bots internal name ( example: ai_0 )
