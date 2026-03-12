@@ -87,3 +87,10 @@ when pressing = the game changes the current player camera to another player cam
 it lets you see the bots internal name ( example: ai_0 )
 
 and when pressing ¿ it does screenshots, in 1.1 it makes screenshots in .bmp format, but in 1.0.001 it does in .ppm format
+
+# internal game files names
+
+in samuels character folder the texture file names are sammy instead of being samuel
+which could mean that it was originally supposed to be sammy
+
+same happens with neva, the texture file names are gown instead of neva.
