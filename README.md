@@ -85,3 +85,5 @@ so tux racer only uses display lists to optimize .obj.strip models.
 
 when pressing = the game changes the current player camera to another player camera, by doing this on Enter an Event
 it lets you see the bots internal name ( example: ai_0 )
+
+and when pressing ¿ it does screenshots, in 1.1 it makes screenshots in .bmp format, but in 1.0.001 it does in .ppm format
