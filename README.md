@@ -72,3 +72,11 @@ but in 1.0.001 you can find scrapped ai targets which are probably failed versio
 
 theres also a new.tcl
 
+# technical OpenGL information
+
+by default, the game uses display lists for mostly everything, by using an opengl wrapper that doesnt support displaylists,
+it reveals that it doesnt use display lists for terrain.
+
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/UHM%20why%20it%20looks%20like%20that.png)
+
+so tux racer only uses display lists to optimize .obj.strip models.
