@@ -94,3 +94,15 @@ in samuels character folder the texture file names are sammy instead of being sa
 which could mean that it was originally supposed to be sammy
 
 same happens with neva, the texture file names are gown instead of neva.
+
+# E3 Teaser Trailer
+
+looking at the E3 Teaser Trailer of tux racer, is it possible to notice differences such as: 
+
+rock1 texture differences:
+
+E3 version
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/tux%20racer%20e3%20rock%20differences.png)
+
+Final 1.0.001 version
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/tux%20racer%20final%20version%201.0001%20rock%20differences.png)
