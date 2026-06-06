@@ -99,6 +99,9 @@ same happens with neva, the texture file names are gown instead of neva.
 
 looking at the E3 Teaser Trailer of tux racer, is it possible to notice differences such as: 
 
+invididual cup lighting .tcl files didnt exist yet, instead it was using the default weather lighting .tcl files from tux racer 0.61
+the background files used on those .tcl files is still on tux racer 1.1
+
 rock1 texture differences:
 
 E3 version
