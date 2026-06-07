@@ -101,7 +101,7 @@ looking at the E3 Teaser Trailer of tux racer, is it possible to notice differen
 
 only playable character yet was Tux, leading to other players/bots being Tux.
 
-invididual cup lighting .tcl files didnt exist yet, instead it was using the default weather lighting .tcl files from tux racer 0.61
+invididual cup lighting .tcl files didnt exist yet, instead it was using the default weather lighting .tcl files from tux racer 0.61, 
 the background files used on those .tcl files is still on tux racer 1.1
 
 rock1 texture differences:
