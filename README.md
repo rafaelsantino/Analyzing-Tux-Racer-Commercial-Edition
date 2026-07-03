@@ -111,3 +111,9 @@ E3 version
 
 Final 1.0.001 version
 ![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/tux%20racer%20final%20version%201.0001%20rock%20differences.png)
+
+# Unknown (yet?) build
+
+as seen in the manual screenshots it is noticeable that the course previews show debug info (normal debug info such as FPS and Tris) and the lighting used in the E3 version
+
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/practice_select.png)
