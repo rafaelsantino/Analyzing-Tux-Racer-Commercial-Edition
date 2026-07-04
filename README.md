@@ -61,7 +61,7 @@ screenshot of what the trophy looks:
 
 in 1.0.001 and 1.0.003 there was a different EULA.txt version.
 
-by reading it you can find out that there could be an level editor included "The Program may also contain a Level Editor (the “Editor”) that allows you to create custom levels or other materials for your personal use in connection with the Program (“New Materials”)." so maybe the image called pallete.png is a part of the editor.
+by reading it you can find out that there could be an level editor included "The Program may also contain a Level Editor (the “Editor”) that allows you to create custom levels or other materials for your personal use in connection with the Program (“New Materials”)." so maybe the image called pallete.png is a part of the editor. (no it isnt after all...)
 
 # scrapped bots paths
 
@@ -93,6 +93,15 @@ in samuels character folder the texture file names are sammy instead of being sa
 which could mean that it was originally supposed to be sammy
 
 same happens with neva, the texture file names are gown instead of neva.
+
+# Software used in development
+
+Sound Forge 4.5 - Audio
+
+Maya 4.0 - Character Animations
+
+Adobe ImageReady - Some Textures
+
 
 # E3 Teaser Trailer
 
