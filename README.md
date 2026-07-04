@@ -139,9 +139,11 @@ also it includes the .sh files to compile the source code
 
 checking leftover config files it is possible to say that the directory where the source code of tux racer arcade edition is "/home/jasbahr/Projects/roxor-tuxracer/"
 
-in the beginner cup folder a bunnyhill.zip file can be found, inside of it there seems to be an early version of beginner1 course (early because theres a trees.png file which is not used on tux racer 1.1 and there arent ticket-related objects in the items.tcl)
+in the beginner cup folder a bunnyhill.zip file can be found, inside of it there seems to be an early version of the edited beginner1 course (has no ticket-related objects)
 
-beginner1-v2 and beginner1-orig seems to be a duplicate of whats inside bunnyhill.zip
+beginner1-v2 seems to be a duplicate of whats inside bunnyhill.zip
+
+in all of the beginner1 folders there is a trees.png which is clearly not used in tux racer 1.1
 
 there are also Thumbs.db files in specific folders (apparently this reveals roxor games employees used windows xp), they dont have anything special (like deleted images) but they have different modification dates
 
