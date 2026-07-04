@@ -1,6 +1,6 @@
 # Note:
 
-1.0.002 wasnt found yet so this could be incomplete and have errors
+1.0.002 and 1.0.004 (proof of existence: mentioned on the tux racer original forums, although needs to be checked) werent found yet so this could be incomplete and have errors
 
 # Analyzing Tux-Racer (Commercial Edition)
 i just wanted to analyze tux racer commercial edition for fun
@@ -8,15 +8,14 @@ i just wanted to analyze tux racer commercial edition for fun
 anyways
 
 heres some things i found:
-some images were made with Software Adobe ImageReady
 
-the directory of the tux racer source code is E:\users\jfpatry\tuxracer\tuxracer-cvs\
+the directory of the tux racer source code is "E:\users\jfpatry\tuxracer\tuxracer-msvc\tuxracer-cvs\src\", found in the windows build of tux racer 1.1
 
-some leaked minimal source code of tux racer 1.1: 
+some minimal source code of tux racer 1.1: 
 
 ![Screenshot](https://raw.githubusercontent.com/spielerkapitan/Analyzing-Tux-Racer-1.1/refs/heads/main/The%20Secret%20Uncovered.png)
 
-after "Expression:" thats the minimal leaked source code
+after "Expression:" thats the minimal source code
 
 this also reveals why it crashes sometimes with the music enabled when you have the original sdl.dll that comes included with the game itself
 
@@ -42,7 +41,7 @@ The Original Texture:
 
 ![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-1.1/blob/main/desktop-wallpaper-3ds-max-texture-library.jpg?raw=true)
 
-its from 3ds max texture library.
+its from 3DS Max texture library. (but i couldnt find that texture library for some reason)
 
 
 # Unused Content
@@ -117,3 +116,28 @@ Final 1.0.001 version
 as seen in the manual screenshots it is noticeable that the course previews show debug info (normal debug info such as FPS and Tris) and the lighting used in the E3 version
 
 ![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/practice_select.png)
+
+# Arcade Edition
+
+in april 2 2026, tux racer arcade got archived, so i will analyze it too.
+
+it seems to include the course editor, which i got to run on wish tcl interpreter:
+
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/tux%20racer%20editor%20working%20on%20wish%20yay.png)
+(image is small cause i couldnt get anything else working, need to get tk and tix loaded correctly on tux racer to get further)
+
+also it includes the .sh files to compile the source code
+
+checking leftover config files it is possible to say that the directory where the source code of tux racer arcade edition is "/home/jasbahr/Projects/roxor-tuxracer/"
+
+in the beginner cup folder a bunnyhill.zip file can be found, inside of it there seems to be an early version of beginner1 course (early because theres a trees.png file which is not used on tux racer 1.1 and there arent ticket-related objects in the items.tcl)
+
+beginner1-v2 and beginner1-orig seems to be a duplicate of whats inside bunnyhill.zip
+
+there are also Thumbs.db files in specific folders (apparently this reveals roxor games employees used windows xp), they dont have anything special (like deleted images) but they have different modification dates
+
+in courses folder there is a course_idx.demo.tcl, it is very similar to the course_idx.tcl from tux racer demo but instead of having artic cup courses it would have mountain cup courses
+
+there are also unused fish types (their textures never get loaded):
+
+![Screenshot](https://raw.githubusercontent.com/rafaelsantino/Analyzing-Tux-Racer-Commercial-Edition/refs/heads/main/unused%20fish%20in%20tux%20racer%20arcade%20edition.png)
