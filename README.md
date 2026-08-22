@@ -1,6 +1,6 @@
 # Note:
 
-1.0.002 and 1.0.004 (proof of existence: mentioned on the tux racer original forums, although needs to be checked) werent found yet so this could be incomplete and have errors
+1.0.002 and 1.0.004 (proof of existence: mentioned on the tux racer original forums, although needs to be verified) werent found yet so this could be incomplete and have errors
 
 # Analyzing Tux-Racer (Commercial Edition)
 i just wanted to analyze tux racer commercial edition for fun
