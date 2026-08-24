@@ -87,6 +87,8 @@ it lets you see the bots internal name ( example: ai_0 )
 
 and when pressing ¿ it does screenshots, in 1.1 it makes screenshots in .bmp format, but in 1.0.001 it does in .ppm format
 
+Note: the key of the shortcut depends of your keyboard layout (in this case mine is spanish)
+
 # internal game files names
 
 in samuels character folder the texture file names are sammy instead of being samuel
